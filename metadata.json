@@ -1,0 +1,6 @@
+{
+  "name": "LensGallery",
+  "description": "Mobile app with user authentication, profile management, and Picsum image gallery with search, filter, pagination, favorites, and download capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

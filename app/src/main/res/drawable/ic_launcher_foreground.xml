@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Body -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M34,36 L40,30 L68,30 L74,36 L82,36 C85.3,36 88,38.7 88,42 L88,74 C88,77.3 85.3,80 82,80 L26,80 C22.7,80 20,77.3 20,74 L20,42 C20,38.7 22.7,36 26,36 Z" />
+    <!-- Lens Outer Ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58m-18,0a18,18 0 1,0 36,0a18,18 0 1,0 -36,0" />
+    <!-- Lens Inner Aperture -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M54,58m-11,0a11,11 0 1,0 22,0a11,11 0 1,0 -22,0" />
+    <!-- Reflection highlight -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M51,52m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <!-- Top Flash / Sensor dot -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,44m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+</vector>
